@@ -3,24 +3,34 @@ A mini website template for the ICS' Subcommissions to use
 
 This repository contains the template source code for sub-sites of the the International Commission on Stratigraphy's website which is online at <http://stratigraphy.org>. The subcommission sites are:
 
-1. <span style="background-color:#FF6485;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Precambrian Stratigraphy](http://precambrian.stratigraphy.org/)
-2. <span style="background-color:#FFCD7C;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Cryogenian Stratigraphy](http://www.episodes.org/index.php/epi/article/view/89231)
-3. <span style="background-color:#FFD789;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Ediacaran Stratigraphy](http://ediacaran.stratigraphy.org/)
-4. <span style="background-color:#83AF77;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Cambrian Stratigraphy](http://cambrian.stratigraphy.org/)
-5. <span style="background-color:#00AF90;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Ordovician Stratigraphy](http://ordovician.stratigraphy.org/)
-6. <span style="background-color:#AFE3CD;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Silurian Stratigraphy](http://silurian.stratigraphy.org/)
-7. <span style="background-color:#D59C58;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Devonian Stratigraphy](http://devonian.stratigraphy.org/)
-8. <span style="background-color:#5FB6B5;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Carboniferous Stratigraphy](http://carboniferous.stratigraphy.org/)
-9. <span style="background-color:#F95F44;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Permian Stratigraphy](http://permian.stratigraphy.org/)
-10. <span style="background-color:#824FA8;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Triassic Stratigraphy](http://triassic.stratigraphy.org/)
-11. <span style="background-color:#1AC4EC;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Jurassic Stratigraphy](http://jurassic.stratigraphy.org/)
-12. <span style="background-color:#82CC73;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Cretaceous Stratigraphy](http://cretaceous.stratigraphy.org/)
-13. <span style="background-color:#FFA76F;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Paleogene Stratigraphy](http://paleogene.stratigraphy.org/)
-14. <span style="background-color:#FFDB4B;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Neogene Stratigraphy](http://neogene.stratigraphy.org/)
-15. <span style="background-color:#FFF49E;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Quaternary Stratigraphy](http://quaternary.stratigraphy.org/)
+1. <div style="background-color:#FF6485; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Precambrian Stratigraphy](http://precambrian.stratigraphy.org/)
+2. <div style="background-color:#FFCD7C; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Cryogenian Stratigraphy](http://www.episodes.org/index.php/epi/article/view/89231)
+3. <div style="background-color:#FFD789; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Ediacaran Stratigraphy](http://ediacaran.stratigraphy.org/)
+4. <div style="background-color:#83AF77; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Cambrian Stratigraphy](http://cambrian.stratigraphy.org/)
+5. <div style="background-color:#00AF90; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Ordovician Stratigraphy](http://ordovician.stratigraphy.org/)
+6. <div style="background-color:#AFE3CD; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Silurian Stratigraphy](http://silurian.stratigraphy.org/)
+7. <div style="background-color:#D59C58; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Devonian Stratigraphy](http://devonian.stratigraphy.org/)
+8. <div style="background-color:#5FB6B5; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Carboniferous Stratigraphy](http://carboniferous.stratigraphy.org/)
+9. <div style="background-color:#F95F44; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Permian Stratigraphy](http://permian.stratigraphy.org/)
+10. <div style="background-color:#824FA8; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Triassic Stratigraphy](http://triassic.stratigraphy.org/)
+11. <div style="background-color:#1AC4EC; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Jurassic Stratigraphy](http://jurassic.stratigraphy.org/)
+12. <div style="background-color:#82CC73; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Cretaceous Stratigraphy](http://cretaceous.stratigraphy.org/)
+13. <div style="background-color:#FFA76F; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Paleogene Stratigraphy](http://paleogene.stratigraphy.org/)
+14. <div style="background-color:#FFDB4B; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Neogene Stratigraphy](http://neogene.stratigraphy.org/)
+15. <div style="background-color:#FFF49E; width: 15px; display:inline;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Quaternary Stratigraphy](http://quaternary.stratigraphy.org/)
     * test site: <http://stratigraphy.org/subcommission-template/>
-16. <span style="background-color:#999;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Stratigraphic Classification](http://issc.uni-graz.at/)
-17. <span style="background-color:#333;">&nbsp;&nbsp;&nbsp;&nbsp;</span> Timescale Calibration - *not online yet*
+16. <div style="background-color:#999; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Stratigraphic Classification](http://issc.uni-graz.at/)
+17. <div style="background-color:#333; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> Timescale Calibration - *not online yet*
+
+
+<ol>
+    <li>
+        <div style="background-color:#FFF49E; width: 15px; display:inline;">&nbsp;&nbsp;&nbsp;&nbsp;</div> <a href="http://quaternary.stratigraphy.org/">Quaternary Stratigraphy</a>
+        <ul>
+            <li><em><a href="http://stratigraphy.org/subcommission-template/">test site showing this template</a></em></li>
+        </ul>
+    </li>
+</ol>
 
 Not all of these sites yet use this template. Those with * next to them do (currently none!)
 
