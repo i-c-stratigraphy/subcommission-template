@@ -17,20 +17,10 @@ This repository contains the template source code for sub-sites of the the Inter
 12. <div style="background-color:#82CC73; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Cretaceous Stratigraphy](http://cretaceous.stratigraphy.org/)
 13. <div style="background-color:#FFA76F; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Paleogene Stratigraphy](http://paleogene.stratigraphy.org/)
 14. <div style="background-color:#FFDB4B; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Neogene Stratigraphy](http://neogene.stratigraphy.org/)
-15. <div style="background-color:#FFF49E; width: 15px; display:inline;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Quaternary Stratigraphy](http://quaternary.stratigraphy.org/)
+15. ![](images/quaternary-color.png) [Quaternary Stratigraphy](http://quaternary.stratigraphy.org/)
     * test site: <http://stratigraphy.org/subcommission-template/>
 16. <div style="background-color:#999; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> [Stratigraphic Classification](http://issc.uni-graz.at/)
 17. <div style="background-color:#333; width:15px;">&nbsp;&nbsp;&nbsp;&nbsp;</div> Timescale Calibration - *not online yet*
-
-
-<ol>
-    <li>
-        <div style="background-color:#FFF49E; width: 15px; display:inline;">&nbsp;&nbsp;&nbsp;&nbsp;</div> <a href="http://quaternary.stratigraphy.org/">Quaternary Stratigraphy</a>
-        <ul>
-            <li><em><a href="http://stratigraphy.org/subcommission-template/">test site showing this template</a></em></li>
-        </ul>
-    </li>
-</ol>
 
 Not all of these sites yet use this template. Those with * next to them do (currently none!)
 
