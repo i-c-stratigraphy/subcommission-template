@@ -18,6 +18,7 @@ This repository contains the template source code for sub-sites of the the Inter
 13. <span style="background-color:#FFA76F;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Paleogene Stratigraphy](http://paleogene.stratigraphy.org/)
 14. <span style="background-color:#FFDB4B;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Neogene Stratigraphy](http://neogene.stratigraphy.org/)
 15. <span style="background-color:#FFF49E;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Quaternary Stratigraphy](http://quaternary.stratigraphy.org/)
+    * test site: <http://stratigraphy.org/subcommission-template/>
 16. <span style="background-color:#999;">&nbsp;&nbsp;&nbsp;&nbsp;</span> [Stratigraphic Classification](http://issc.uni-graz.at/)
 17. <span style="background-color:#333;">&nbsp;&nbsp;&nbsp;&nbsp;</span> Timescale Calibration - *not online yet*
 
