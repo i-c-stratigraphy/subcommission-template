@@ -3,7 +3,7 @@ A mini website template for the ICS' Subcommissions to use
 
 This repository contains the template source code for sub-sites of the the International Commission on Stratigraphy's website which is online at <http://stratigraphy.org>. The subcommission sites are:
 
-1. ![](images/colour-precambrian.png) (#FF6485) [Precambrian Stratigraphy](http://precambrian.stratigraphy.org/)
+1. ![](images/colour-precambrian.png) (#FF6485) [Precryogenian Stratigraphy](http://precryogenian.stratigraphy.org/)
 2. ![](images/colour-cryogenian.png) (#FFCD7C) [Cryogenian Stratigraphy](http://www.episodes.org/index.php/epi/article/view/89231)
 3. ![](images/colour-ediacaran.png) (#FFD789) [Ediacaran Stratigraphy](http://ediacaran.stratigraphy.org/)
 4. ![](images/colour-cambrian.png) (#83AF77) [Cambrian Stratigraphy](http://cambrian.stratigraphy.org/)
